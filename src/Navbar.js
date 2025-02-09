@@ -1,3 +1,5 @@
+import Logo from "./images/Logo.png";
+
 export default function Navbar() {
     return (
       <nav className="bg-gray-800">
@@ -29,23 +31,26 @@ export default function Navbar() {
               <div className="flex shrink-0 items-center">
                 <img
                   className="h-8 w-auto"
-                  src="https://tailwindui.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+                  src={Logo}
                   alt="Your Company"
                 />
               </div>
               <div className="hidden sm:ml-6 sm:block">
                 <div className="flex space-x-4">
                   <a href="#" className="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white">
-                    Dashboard
+                    Home
                   </a>
                   <a href="#" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
-                    Team
+                    About
                   </a>
                   <a href="#" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
-                    Projects
+                    Places
                   </a>
                   <a href="#" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
-                    Calendar
+                    Login
+                  </a>
+                  <a href="#" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
+                    Contact US
                   </a>
                 </div>
               </div>
@@ -90,24 +95,6 @@ export default function Navbar() {
                       alt=""
                     />
                   </button>
-                </div>
-  
-                <div
-                  className="absolute right-0 z-10 mt-2 w-48 origin-top-right rounded-md bg-white py-1 ring-1 shadow-lg ring-black/5 focus:outline-none"
-                  role="menu"
-                  aria-orientation="vertical"
-                  aria-labelledby="user-menu-button"
-                  tabIndex="-1"
-                >
-                  <a href="#" className="block px-4 py-2 text-sm text-gray-700" role="menuitem" tabIndex="-1">
-                    Your Profile
-                  </a>
-                  <a href="#" className="block px-4 py-2 text-sm text-gray-700" role="menuitem" tabIndex="-1">
-                    Settings
-                  </a>
-                  <a href="#" className="block px-4 py-2 text-sm text-gray-700" role="menuitem" tabIndex="-1">
-                    Sign out
-                  </a>
                 </div>
               </div>
             </div>
