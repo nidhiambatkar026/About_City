@@ -1,11 +1,13 @@
 import { createRoot } from "react-dom/client";
 import "./index.css";
-import Navbar from "./Navbar.js";
+import HeroSection from "./herosection.js";
+import Navbar from "./navbar.js";
 
 const root = createRoot(document.getElementById("root"));
 
 root.render(
   <>
-    <Navbar />
+    <Navbar/>
+    <HeroSection/>
   </>
 );
