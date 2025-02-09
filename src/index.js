@@ -1,7 +1,11 @@
 import { createRoot } from "react-dom/client";
+import "./index.css";
+import Navbar from "./Navbar.js";
 
 const root = createRoot(document.getElementById("root"));
 
 root.render(
-    <h1>About City</h1>
+  <>
+    <Navbar />
+  </>
 );
