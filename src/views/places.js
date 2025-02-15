@@ -1,11 +1,11 @@
-import ambarzariLake  from "./images/ambazari-lake-nagpur.jpg";
-import ramtek from "./images/Ramtek.jpeg";
-import Sitabuldi from "./images/SitabuldiFort.webp";
-import Ramanscience from "./images/RamanScienceCenter.jpg";
-import dragonpalace from "./images/DragonPalaceTemple.avif";
-import Khindsi from "./images/KhindsiLake.jpg";
-import Futala from "./images/FutalaLake.jpg";
-import Umredwildlife from "./images/UmredKarhandlaWildlifeSanctuary.jpeg";
+import ambarzariLake  from "./../images/ambazari-lake-nagpur.jpg";
+import ramtek from "./../images/Ramtek.jpeg";
+import Sitabuldi from "./../images/SitabuldiFort.webp";
+import Ramanscience from "./../images/RamanScienceCenter.jpg";
+import dragonpalace from "./../images/DragonPalaceTemple.avif";
+import Khindsi from "./../images/KhindsiLake.jpg";
+import Futala from "./../images/FutalaLake.jpg";
+import Umredwildlife from "./../images/UmredKarhandlaWildlifeSanctuary.jpeg";
 
 export default function Places(){
     return(

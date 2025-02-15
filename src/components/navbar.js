@@ -1,5 +1,5 @@
-import Logo from "./images/Logo.png";
-import profile from "./images/profile.png";
+import Logo from "./../images/Logo.png";
+import profile from "./../images/profile.png";
 
 export default function Navbar() {
     return (

@@ -1,4 +1,4 @@
-import bgimage from "./images/banner.jpg";
+import bgimage from "./../images/banner.jpg";
 
 export default function HeroSection() {
     return (
