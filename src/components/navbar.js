@@ -111,7 +111,7 @@ export default function Navbar() {
               Places
             </a>
             <a href="#" className="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">
-              Contact us
+            Contact Us
             </a>
           </div>
         </div>
