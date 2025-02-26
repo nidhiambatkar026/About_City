@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc6b384c.css",
+    "main.js": "/static/js/main.98e94b74.js",
+    "static/media/banner.jpg": "/static/media/banner.afcfff5be4d3626e9abb.jpg",
+    "static/media/RamanScienceCenter.jpg": "/static/media/RamanScienceCenter.4b12dba4c843351e5a42.jpg",
+    "static/media/FutalaLake.jpg": "/static/media/FutalaLake.e8533a025a3238584cf9.jpg",
+    "static/media/KhindsiLake.jpg": "/static/media/KhindsiLake.23cb26200ea0198798ce.jpg",
+    "static/media/SitabuldiFort.webp": "/static/media/SitabuldiFort.bd2d2de0d47835062884.webp",
+    "static/media/DragonPalaceTemple.avif": "/static/media/DragonPalaceTemple.a71388dbac10d4981f20.avif",
+    "static/media/Logo.png": "/static/media/Logo.119cde805b8b04682fa9.png",
+    "static/media/ambazari-lake-nagpur.jpg": "/static/media/ambazari-lake-nagpur.78db3729c908e62b4d68.jpg",
+    "static/media/profile.png": "/static/media/profile.3f889d0af5f26871fbcc.png",
+    "index.html": "/index.html",
+    "main.cc6b384c.css.map": "/static/css/main.cc6b384c.css.map",
+    "main.98e94b74.js.map": "/static/js/main.98e94b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6b384c.css",
+    "static/js/main.98e94b74.js"
+  ]
+}

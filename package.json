@@ -4,7 +4,8 @@
   "description": "This app will provide the information about the Nagpur city",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build" : "react-scripts build"
   },
   "dependencies": {
     "react": "^19.0.0",
